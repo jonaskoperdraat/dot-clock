@@ -18,8 +18,8 @@ let world: Model;
 let ticks: 60;
 
 let showDebugInfo: boolean = false
-let showNumbers: boolean = true
-let showBand: boolean = true
+let showNumbers: boolean = false
+let showBand: boolean = false
 let bandValue: number = 10;
 
 window.onload = init;

@@ -1,20 +1,14 @@
 {
-  "name": "typescript-starter-npm",
-  "version": "1.0.0",
+  "name": "dot-clock",
+  "version": "0.0.1",
   "type": "module",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nea/Typescript-Starter"
+    "url": "https://github.com/jonaskoperdraat/DotClock"
   },
-  "bugs": "https://github.com/nea/Typescript-Starter/issues",
   "keywords": [
-    "npm",
-    "scripts",
-    "watch",
-    "typescript",
-    "tsc",
-    "onchange"
+    "clock"
   ],
   "scripts": {
     "start": "run-s watch",
